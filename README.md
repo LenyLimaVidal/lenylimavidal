@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Leny Lima Vidal</h1>
-<h3 align="center">I am passionate about Data Science.</h3>
+
+Welcome to my GitHub profile
+
+<h3 align="left">I am passionate about Data Science.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
