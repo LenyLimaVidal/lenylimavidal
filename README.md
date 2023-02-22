@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leny Lima Vidal</h1>
+<h1 align="left">Hi 👋, I'm Leny Lima Vidal</h1>
 <h3 align="center">I am passionate about Data Science.</h3>
 
 
