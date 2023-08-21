@@ -6,9 +6,6 @@
 
 
 
-
-<!-- Copia y pega este código en tu perfil de GitHub bajo la sección "Languages and Tools" -->
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -32,7 +29,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más herramientas aquí -->
+
   <tr>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -53,7 +50,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más herramientas aquí -->
+ 
   <tr>
     <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -74,7 +71,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más herramientas aquí -->
+ 
   <tr>
     <td align="center">
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
@@ -95,7 +92,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más herramientas aquí -->
+ 
   <tr>
     <td align="center">
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
@@ -116,7 +113,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más herramientas aquí -->
+
   <tr>
     <td align="center">
       <a href="https://www.opencv.org/" target="_blank" rel="noreferrer">
@@ -137,10 +134,8 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más herramientas aquí -->
+ 
 </table>
-
-<!-- Fin de la sección "Languages and Tools" -->
 
 
 
