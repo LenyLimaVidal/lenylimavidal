@@ -141,20 +141,40 @@
 <!-- Fin de la sección "Languages and Tools" -->
 
 
+<style>
+  .social-icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: #333;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+  }
 
-
-
-
+  .social-icon:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/leny_lima_vidal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leny_lima_vidal" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/lenylimavidal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenylimavidal" height="30" width="40" />
-</a>
-<a href="https://github.com/lenylimavidal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lenylimavidal" height="30" width="40" />
-</a>
-</p>
+<div align="left">
+  <a href="https://twitter.com/leny_lima_vidal" target="blank">
+    <div class="social-icon">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
+    </div>
+  </a>
+  <a href="https://linkedin.com/in/lenylimavidal" target="blank">
+    <div class="social-icon">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+    </div>
+  </a>
+  <a href="https://github.com/lenylimavidal" target="blank">
+    <div class="social-icon">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30" />
+    </div>
+  </a>
+</div>
+
+
+
