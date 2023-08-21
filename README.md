@@ -10,61 +10,53 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <style>
-  .tools-container {
+  .tools-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+  }
+
+  .tool-row {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
     align-items: center;
-    padding: 20px 0;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
   }
 
-  .tool {
-    text-align: center;
-    padding: 20px;
-    width: 100px;
-    height: 100px;
-    background-color: #f5f5f5;
-    border-radius: 10px;
-    margin: 10px;
+  .tool-cell {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
   }
 
-  .tool img {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 10px;
+  .tool-cell img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
   }
 
-  .tool a {
-    color: #333;
-    text-decoration: none;
+  .tool-name {
+    font-weight: bold;
   }
 </style>
 
-<div class="tools-container">
-  <div class="tool">
-    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"/>
-      <br/>Elasticsearch
-    </a>
-  </div>
-  <div class="tool">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
-      <br/>MongoDB
-    </a>
-  </div>
-  <div class="tool">
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/>
-      <br/>SQL Server
-    </a>
-  </div>
-  <!-- Agrega más herramientas aquí -->
-</div>
+<table class="tools-table">
+  <tr class="tool-row">
+    <td class="tool-cell">
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch">
+      <span class="tool-name">Elasticsearch</span>
+    </td>
+    <td class="tool-cell">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb">
+      <span class="tool-name">MongoDB</span>
+    </td>
+    <td class="tool-cell">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql">
+      <span class="tool-name">SQL Server</span>
+    </td>
+    <!-- Agrega más herramientas aquí -->
+  </tr>
+</table>
 
 <!-- Fin de la sección "Languages and Tools" -->
 
