@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/lenylimavidal/lenylimavidal/assets/91228295/7b8dd6f5-a090-47a1-8474-f09974e8af0b" alt="medium" width="1200"/>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +9,6 @@
 <h1 align="left">Hi, Welcome to my GitHub profile! 👋</h1>
 <h2 align="left">I am passionate about Data Science 🎇🔎📈📊</h2>
 
-<img align="center" src="https://github.com/lenylimavidal/lenylimavidal/assets/91228295/7b8dd6f5-a090-47a1-8474-f09974e8af0b" alt="medium" width="550"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
