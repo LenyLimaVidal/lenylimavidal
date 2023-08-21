@@ -10,29 +10,30 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <style>
-  .tools-table {
-    width: 100%;
-    border-collapse: collapse;
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
     margin: 20px auto;
-  }
-
-  .tool-row {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px;
-    border-bottom: 1px solid #ccc;
+    max-width: 800px;
   }
 
   .tool-cell {
     display: flex;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
   }
 
   .tool-cell img {
-    width: 30px;
-    height: 30px;
-    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 5px;
   }
 
   .tool-name {
@@ -40,23 +41,21 @@
   }
 </style>
 
-<table class="tools-table">
-  <tr class="tool-row">
-    <td class="tool-cell">
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch">
-      <span class="tool-name">Elasticsearch</span>
-    </td>
-    <td class="tool-cell">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb">
-      <span class="tool-name">MongoDB</span>
-    </td>
-    <td class="tool-cell">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql">
-      <span class="tool-name">SQL Server</span>
-    </td>
-    <!-- Agrega más herramientas aquí -->
-  </tr>
-</table>
+<div class="tools-grid">
+  <div class="tool-cell">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch">
+    <span class="tool-name">Elasticsearch</span>
+  </div>
+  <div class="tool-cell">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb">
+    <span class="tool-name">MongoDB</span>
+  </div>
+  <div class="tool-cell">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql">
+    <span class="tool-name">SQL Server</span>
+  </div>
+  <!-- Agrega más herramientas aquí -->
+</div>
 
 <!-- Fin de la sección "Languages and Tools" -->
 
