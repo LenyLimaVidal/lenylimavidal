@@ -10,54 +10,54 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <style>
-  .tools-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-    gap: 10px;
-    margin: 20px auto;
-    max-width: 800px;
+  .tool-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
   }
 
-  .tool-cell {
+  .tool-box {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
-    height: 100px;
     background-color: #f5f5f5;
     border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
   }
 
-  .tool-cell img {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 5px;
+  .tool-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
   }
 
   .tool-name {
-    font-weight: bold;
+    font-size: 12px;
   }
 </style>
 
-<div class="tools-grid">
-  <div class="tool-cell">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch">
+<div class="tool-container">
+  <div class="tool-box">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" class="tool-icon">
     <span class="tool-name">Elasticsearch</span>
   </div>
-  <div class="tool-cell">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb">
+  <div class="tool-box">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" class="tool-icon">
     <span class="tool-name">MongoDB</span>
   </div>
-  <div class="tool-cell">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql">
+  <div class="tool-box">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" class="tool-icon">
     <span class="tool-name">SQL Server</span>
   </div>
   <!-- Agrega más herramientas aquí -->
 </div>
 
 <!-- Fin de la sección "Languages and Tools" -->
+
+
 
 
 
