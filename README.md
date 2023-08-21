@@ -16,13 +16,13 @@
   <tr>
     <td align="center">
       <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/><br/>
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="50"/><br/>
         Elasticsearch
       </a>
     </td>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="45"/><br/>
         MongoDB
       </a>
     </td>
@@ -132,13 +132,17 @@
 
 <!-- Fin de la sección "Languages and Tools" -->
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://twitter.com/leny_lima_vidal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leny_lima_vidal" height="30" width="30" />
+
+<h3>Connect with me:</h3>
+<div>
+  <a href="https://twitter.com/leny_lima_vidal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/lenylimavidal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenylimavidal" height="30" width="30" />
+  <a href="https://linkedin.com/in/lenylimavidal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
+   </a>
+  <a href="https://medium.com/@leny.lima.vidal" target="_blank">
+    <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" alt="Medium" height="50" width="50" />
   </a>
 </div>
 
