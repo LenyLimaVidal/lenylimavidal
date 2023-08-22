@@ -135,7 +135,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más filas aqui -->
+  <!-- Agrega mas filas aqui -->
 </table>
 
 <!-- Fin de la sección "Languages and Tools" -->
