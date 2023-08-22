@@ -10,7 +10,32 @@
 <h2 align="left">I am passionate about Data Science 🎇🔎📈📊</h2>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Connect with me</h3>
+<div>
+    <a href="https://linkedin.com/in/lenylimavidal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp&nbsp
+  <a href="https://web.dio.me/users/leny_lima_vidal">
+    <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="dio" height="40" width="55" />
+   </a>
+  &nbsp&nbsp
+  <a href="https://medium.com/@leny.lima.vidal" target="_blank">
+    <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" alt="Medium" height="40" width="40" />
+  </a>
+  &nbsp&nbsp
+    <a href="https://twitter.com/leny_lima_vidal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  </a>
+</div>
+
+
+</body>
+</html>
+
+
+
+<h3 align="left">Languages and Tools</h3>
 
 <table>
   <tr>
@@ -131,26 +156,3 @@
 </table>
 
 <!-- Fin de la sección "Languages and Tools" -->
-
-
-<h3>Connect with me:</h3>
-<div>
-  <a href="https://twitter.com/leny_lima_vidal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  &nbsp&nbsp
-  <a href="https://linkedin.com/in/lenylimavidal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-   </a>
-  &nbsp&nbsp
-  <a href="https://medium.com/@leny.lima.vidal" target="_blank">
-    <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" alt="Medium" height="40" width="40" />
-  </a>
-  &nbsp&nbsp
-  <a href="https://web.dio.me/users/leny_lima_vidal">
-    <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="dio" height="40" width="55" />
-  </a>
-</div>
-
-</body>
-</html>
