@@ -10,7 +10,7 @@
 <h2 align="left">I am passionate about Data Science 🎇🔎📈📊</h2>
 
 
-<h2>Connect with me</h2>
+<h3>Connect with me</h3>
 <div>
     <a href="https://linkedin.com/in/lenylimavidal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -35,7 +35,7 @@
 
 
 
-<h2 align="left">Languages and Tools</h2>
+<h3 align="left">Languages and Tools</h2>
 
 <table>
   <tr>
@@ -158,8 +158,7 @@
 <!-- Fin de la sección "Languages and Tools" -->
 
 
-
-### My Main DIO Project Challenges
+<h3>My Main DIO Project Challenges</h3>
 
 [![Repo dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=lenylimavidal&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lenylimavidal/dio-lab-open-source)
 
