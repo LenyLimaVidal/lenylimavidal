@@ -12,8 +12,12 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lenylimavidal/?locale=pt_BR/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leny.lima.vidal)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leny.lima.vidal)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/leny_lima_vidal)
+<a href="https://www.dio.me/users/leny_lima_vidal">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO" width="90" height="28">
+</a>
+
 
 
 
