@@ -10,6 +10,13 @@
 <h2 align="left">I am passionate about Data Science 🎇🔎📈📊</h2>
 
 ### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lenylimavidal/?locale=pt_BR/)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leny.lima.vidal)
+
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/leny_lima_vidal)
+
 <div>
     <a href="https://linkedin.com/in/lenylimavidal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -156,60 +163,71 @@
 <!-- Fin de la sección "Languages and Tools" -->
 
 
+
+
 ### My Main DIO Project Challenges
+[![Repo dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=lenylimavidal&repo=dio-lab-open-source&bg_color=0D1117&border_color=58A6FF&show_icons=true&icon_color=58A6FF&title_color=FFFFFF&text_color=B8C7E0)](https://github.com/lenylimavidal/dio-lab-open-source)
 
-[![Repo dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=lenylimavidal&repo=dio-lab-open-source&bg_color=0D1117&border_color=2E86C1&show_icons=true&icon_color=2E86C1&title_color=ABB2BF&text_color=ABB2BF)](https://github.com/lenylimavidal/dio-lab-open-source)
 
 
-### Meus Principais Artigos na DIO
+
+### My Top Articles
+
 <table>
   <thead>
     <tr align="left">
-      <th>Data</th>
-      <th>Título</th>
+      <th>Date</th>
+      <th>Title</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
-      <td>14/12/2022</td>
-      <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
+      <td>11/04/2023</td>
+      <td>A importância da ciência de dados nas empresas e na sociedade</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        <a href="https://www.linkedin.com/pulse/import%25C3%25A2ncia-da-ci%25C3%25AAncia-de-dados-nas-empresas-e-na-leny-lima-vidal/?trackingId=EVXJ9WgdSMKkaEmoJ73NyA%3D%3D" style="background-color: #FF5733;">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-2E86C1?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
-      <td>21/10/2022</td>
-      <td>Crie Seu Próprio Web Component</td>
+      <td>22/06/2023</td>
+      <td>Diferenças na limpeza e preparação de dados: Cientistas de Dados vs. Analistas de Dados</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        <a href="https://www.linkedin.com/pulse/diferen%25C3%25A7as-na-limpeza-e-prepara%25C3%25A7%25C3%25A3o-de-dados-vs-leny-lima-vidal-1f/?trackingId=EVXJ9WgdSMKkaEmoJ73NyA%3D%3D" style="background-color: #FF5733;">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E91E63?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
-      <td>30/06/2022</td>
-      <td>Destrave seu Primeiro Desafio de Código</td>
+      <td>06/07/2023</td>
+      <td>Separando os fatos: Excel não é igual a um banco de dados</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        <a href="https://www.linkedin.com/pulse/separando-os-fatos-excel-n%25C3%25A3o-%25C3%25A9-igual-um-banco-de-dados-lima-vidal/?trackingId=EVXJ9WgdSMKkaEmoJ73NyA%3D%3D" style="background-color: #FF5733;">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-2E86C1?style=for-the-badge">
         </a>
       </td>    
     </tr>
     <tr>
-      <td>21/04/2022</td>
-      <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
+      <td>17/08/2023</td>
+      <td>Otimização Estratégica no Setor de Vendas de Produtos Escolares: Guia para Aplicação de Análise de Dados</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        <a href="https://www.linkedin.com/pulse/otimiza%25C3%25A7%25C3%25A3o-estrat%25C3%25A9gica-setor-de-vendas-produtos-guia-para-lima-vidal/?trackingId=EVXJ9WgdSMKkaEmoJ73NyA%3D%3D" style="background-color: #FF5733;">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E91E63?style=for-the-badge">
         </a>
       </td>    
+    </tr>
+      <tr>
+      <td>07/06/2023</td>
+      <td>Benefits of Data Analysis in Business Decision-Making</td>
+      <td align="center">
+        <a href="https://medium.com/@leny.lima.vidal/benefits-of-data-analysis-in-business-decision-making-cea21a359d93" style="background-color: #FF5733;">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-2E86C1?style=for-the-badge">
+        </a>
+      </td>
     </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
-
----
 
