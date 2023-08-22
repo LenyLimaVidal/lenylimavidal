@@ -144,6 +144,9 @@
   <a href="https://medium.com/@leny.lima.vidal" target="_blank">
     <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" alt="Medium" height="40" width="40" />
   </a>
+  <a href="https://web.dio.me/users/leny_lima_vidal">
+    <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="dio" height="40" width="40" />
+  </a>
 </div>
 
 </body>
