@@ -20,11 +20,6 @@
 
 
 
-
-</body>
-</html>
-
-
 ### Languages and Tools
 
 <table>
