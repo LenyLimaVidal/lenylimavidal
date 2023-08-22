@@ -135,7 +135,7 @@
       </a>
     </td>
   </tr>
-  <!-- Agrega más filas aquí -->
+  <!-- Agrega más filas aqui -->
 </table>
 
 <!-- Fin de la sección "Languages and Tools" -->
@@ -208,4 +208,3 @@
   </tbody>
   <tfoot></tfoot>
 </table>
-
