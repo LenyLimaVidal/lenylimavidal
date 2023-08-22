@@ -35,7 +35,7 @@
 
 
 
-<h3 align="left">Languages and Tools</h2>
+<h3 align="left">Languages and Tools</h3>
 
 <table>
   <tr>
@@ -160,9 +160,5 @@
 
 <h3>My Main DIO Project Challenges</h3>
 
-[![Repo dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=lenylimavidal&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lenylimavidal/dio-lab-open-source)
-
-
-
-
+[![Repo dio-lab-open-source](https://github-readme-stats.vercel.app/api/pin/?username=lenylimavidal&repo=dio-lab-open-source&bg_color=0D1117&border_color=2E86C1&show_icons=true&icon_color=2E86C1&title_color=ABB2BF&text_color=ABB2BF)](https://github.com/lenylimavidal/dio-lab-open-source)
 
