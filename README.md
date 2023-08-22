@@ -18,8 +18,6 @@
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO" width="90" height="28">
 </a>
 
-
-
 ### Languages and Tools
 
 <table>
