@@ -135,7 +135,7 @@
 
 <h3>Connect with me:</h3>
 <div>
-  <a href="https://twitter.com/leny_lima_vidal" target="_blank">
+  <a href="https://twitter.com/leny_lima_vidal" target="_blank" style="margin-right: 15px">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/lenylimavidal" target="_blank">
